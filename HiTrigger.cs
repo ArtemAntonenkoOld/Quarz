@@ -1,13 +1,15 @@
 ﻿using Quartz;
 using System;
-
-public class RozkladTrigger : IJob
+namespace ConsoleApplication
 {
-    public int a = 1;
-
-    public void Execute(IJobExecutionContext context)
+    public class RozkladTrigger : IJob
     {
-       
+        public int a = 1;
+
+        public void Execute(IJobExecutionContext context)
+        {
+
             Console.Write("harasho");
-     }
+        }
+    }
 }
