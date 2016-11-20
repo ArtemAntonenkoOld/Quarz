@@ -16,7 +16,7 @@ namespace ConsoleApplication1
             IScheduler scheduler = StdSchedulerFactory.GetDefaultScheduler();
             scheduler.Start();
 
-            IJobDetail job = JobBuilder.Create<RozkladTrigger>().Build();
+            IJobDetail job = JobBuilder.Create<HiTrigger>().Build();
 
             ITrigger trigger = TriggerBuilder.Create()  // создаем триггер
                 .WithIdentity("trigger1", "group1")     // идентифицируем триггер с именем и группой
