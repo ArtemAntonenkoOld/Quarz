@@ -1,8 +1,8 @@
 ﻿using Quartz;
 using System;
-namespace ConsoleApplication
+namespace ConsoleApplication1
 {
-    public class RozkladTrigger : IJob
+    public class HiTrigger : IJob
     {
         public int a = 1;
 

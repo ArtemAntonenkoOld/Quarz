@@ -1,6 +1,5 @@
 ﻿using Quartz;
 using Quartz.Impl;
-using StudNet.BL.AutoUpdater.Triggers;
 using System;
 using System.Collections.Generic;
 using System.Linq;

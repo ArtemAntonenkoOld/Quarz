@@ -1,1 +1,16 @@
 D:\StudNet\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\StudNet\Quarz\Quarz\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\StudNet\Quarz\Quarz\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\StudNet\Quarz\Quarz\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\StudNet\Quarz\Quarz\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\StudNet\Quarz\Quarz\ConsoleApplication1\bin\Debug\Common.Logging.Core.dll
+D:\StudNet\Quarz\Quarz\ConsoleApplication1\bin\Debug\Common.Logging.dll
+D:\StudNet\Quarz\Quarz\ConsoleApplication1\bin\Debug\Quartz.dll
+D:\StudNet\Quarz\Quarz\ConsoleApplication1\bin\Debug\Common.Logging.pdb
+D:\StudNet\Quarz\Quarz\ConsoleApplication1\bin\Debug\Common.Logging.xml
+D:\StudNet\Quarz\Quarz\ConsoleApplication1\bin\Debug\Common.Logging.Core.pdb
+D:\StudNet\Quarz\Quarz\ConsoleApplication1\bin\Debug\Common.Logging.Core.xml
+D:\StudNet\Quarz\Quarz\ConsoleApplication1\bin\Debug\Quartz.pdb
+D:\StudNet\Quarz\Quarz\ConsoleApplication1\bin\Debug\Quartz.xml
+D:\StudNet\Quarz\Quarz\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\StudNet\Quarz\Quarz\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
